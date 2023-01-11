@@ -11,8 +11,8 @@
 #include <sstream>
 
 #define buzzerPin 12
-#define EnA 22
-#define EnB 23
+#define EnA 23
+#define EnB 22
 #define IN1 21
 #define IN2 19
 #define IN3 18
